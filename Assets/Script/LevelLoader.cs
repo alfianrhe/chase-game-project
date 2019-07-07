@@ -36,7 +36,7 @@ namespace UnityStandardAssets.Vehicles.Car
             // Set a progress bar
             while (!operation.isDone)
             {
-                float progress = Mathf.Clamp01(operation.progress / .9f);
+                float progress = Mathf.Round(Mathf.Clamp01(operation.progress / .9f));
 
                 progressBar.value = progress;
                 progressText.text = progress * 100f + "";

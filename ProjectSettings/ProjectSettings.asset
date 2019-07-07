@@ -16,7 +16,7 @@ PlayerSettings:
   productName: Chase
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
-  m_SplashScreenBackgroundColor: {r: 0.43529415, g: 0.47450984, b: 0.7176471, a: 1}
+  m_SplashScreenBackgroundColor: {r: 0.41960788, g: 0.7372549, b: 0.91372555, a: 1}
   m_ShowUnitySplashScreen: 1
   m_ShowUnitySplashLogo: 1
   m_SplashScreenOverlayOpacity: 1
